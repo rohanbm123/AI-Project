@@ -1,0 +1,44 @@
+{
+    "top_features_by_mean_abs_shap": [
+        {
+            "feature": "tenure",
+            "importance": 1.089702160016878
+        },
+        {
+            "feature": "MonthlyCharges",
+            "importance": 0.7928118980282814
+        },
+        {
+            "feature": "InternetService_Fiber optic",
+            "importance": 0.7878757411244559
+        },
+        {
+            "feature": "Contract_Two year",
+            "importance": 0.4530885944179652
+        },
+        {
+            "feature": "TotalCharges",
+            "importance": 0.41299913642272246
+        },
+        {
+            "feature": "StreamingMovies_Yes",
+            "importance": 0.2560414220094947
+        },
+        {
+            "feature": "StreamingTV_Yes",
+            "importance": 0.25464523923973725
+        },
+        {
+            "feature": "Contract_One year",
+            "importance": 0.24538045740476916
+        },
+        {
+            "feature": "MultipleLines_Yes",
+            "importance": 0.2149808567410956
+        },
+        {
+            "feature": "PaymentMethod_Electronic check",
+            "importance": 0.17590181146641679
+        }
+    ]
+}

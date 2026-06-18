@@ -1,0 +1,15 @@
+.venv/
+**pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+reflex_app/.venv/
+reflex_app/.web/node_modules/
+reflex_app/.states/
+.streamlit/
+.ipynb_checkpoints/
+.cache/
+data/processed/
+reports/
+metadata/
+models/*.joblib

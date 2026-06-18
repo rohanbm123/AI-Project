@@ -1,0 +1,10 @@
+{
+    "score": 3,
+    "decisions": {
+        "accuracy": "PASS",
+        "recall": "PASS",
+        "gender_fairness": "PASS",
+        "senior_fairness": "FAIL"
+    },
+    "final_status": "CONDITIONALLY APPROVED"
+}

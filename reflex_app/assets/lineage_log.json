@@ -1,0 +1,232 @@
+[
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned and encoded data",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic and random forest models",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across groups",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 00:42:26"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned and encoded data",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic and random forest models",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across groups",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 00:42:47"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned and encoded data",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic and random forest models",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across groups",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 15:52:25"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned and encoded data",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic and random forest models",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across groups",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 15:52:38"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned and encoded data",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic and random forest models",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across groups",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 15:52:39"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 16:01:32"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 16:01:32"
+    },
+    {
+        "step": "metadata",
+        "description": "Generated dataset metadata",
+        "timestamp": "2026-04-10 16:01:32"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned, encoded, and split data",
+        "timestamp": "2026-04-10 16:01:32"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic regression and random forest",
+        "timestamp": "2026-04-10 16:01:33"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across gender and senior citizen groups",
+        "timestamp": "2026-04-10 16:01:33"
+    },
+    {
+        "step": "explainability",
+        "description": "Generated SHAP explainability outputs",
+        "timestamp": "2026-04-10 16:01:33"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 16:01:33"
+    },
+    {
+        "step": "ingestion",
+        "description": "Loaded raw dataset",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "data_quality",
+        "description": "Checked missing values and duplicates",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "metadata",
+        "description": "Generated dataset metadata",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "preprocessing",
+        "description": "Cleaned, encoded, and split data",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "model_training",
+        "description": "Trained logistic regression and random forest",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "fairness_check",
+        "description": "Evaluated fairness across gender and senior citizen groups",
+        "timestamp": "2026-04-10 16:04:26"
+    },
+    {
+        "step": "explainability",
+        "description": "Generated SHAP explainability outputs",
+        "timestamp": "2026-04-10 16:04:27"
+    },
+    {
+        "step": "policy_engine",
+        "description": "Generated final governance decision",
+        "timestamp": "2026-04-10 16:04:27"
+    }
+]
